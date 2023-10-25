@@ -5,7 +5,7 @@
 |깃허브|[korno1](https://github.com/korno1)|[Sigdose](https://github.com/Sigdose)|[FaintDL](https://github.com/FaintDL)|
 |---|-----------|-----------|-----------|
 |백준|[korno1](https://solved.ac/profile/korno1)|
-|언어|<img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><img src = "https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>|
+|언어|<img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src = "https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>|
 
 
 
