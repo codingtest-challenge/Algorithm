@@ -23,7 +23,7 @@ int main()
 	sort(v.begin(), v.end());
 	
 	//예제출력
-	/* 
+	/*
 	cout<<"정렬 "<<endl;
 	for(int i=0;i<N;i++)
 	{
@@ -31,7 +31,7 @@ int main()
 		{
 			cout<<v[i][j]<<" ";
 		}
-		cout<<endl;
+		//cout<<endl;
 	}
 	*/
 	//출력끝 
@@ -44,8 +44,7 @@ int main()
 		
 		while(!pq.empty() && -pq.top()<=v[i][0])
 		{
-			//cout << "pq.top "<<pq.top()<<endl;
-			//cout << "-pq.top " <<-pq.top()<<endl;
+			cout << "pq.top " <<-pq.top()<<endl;
 			pq.pop();
 		}
 		
@@ -55,7 +54,7 @@ int main()
 		{
 			count = pq.size();
 		}
-		//cout<<"count == " <<count << endl;
+		//cout<<"size == " <<pq.size() << endl;
 	}
 	
 	
