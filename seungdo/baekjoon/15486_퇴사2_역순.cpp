@@ -45,5 +45,6 @@ int main(void)
 	}
 	ans = dp[0];
 	cout << ans << endl;
+	return 0;
 }
 
