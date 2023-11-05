@@ -30,7 +30,7 @@ int main()
 
 	for (int i = 0; i < N; i++) {
 		cin >> T >> P;
-		v.push_back(make_pair(T, P))[;
+		v.push_back(make_pair(T, P));
 	}
 
 	dp(N-1,N);
